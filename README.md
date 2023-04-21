@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @patduckless
+- 👋 Hi, I’m @patduckless a devops engineer from the UK
 - 👀 I’m interested in free and open source software
-- 🌱 I’m currently learning python and c#
+- 🌱 I’m currently learning python and go
 - 💞️ I’m looking to collaborate on free and open source software
 - 📫 How to reach me (I'll reach you)
 <!---

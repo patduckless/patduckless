@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @patduckless a devops engineer from the UK
+- 👋 Hi, I’m @patduckless a infrastructure engineer from the UK
 - 👀 I’m interested in free and open source software
 - 🌱 I’m currently learning python and go
 - 💞️ I’m looking to collaborate on free and open source software
